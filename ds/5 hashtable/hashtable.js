@@ -78,4 +78,4 @@ var hash = (string, max) => {
 
                 //  my defnitionssssssssss
 //   it has a key and a hashes ... it generally maps a string(key) to a number(hashes) 
-//   if two number has a same hash then it is called collition hhh
+//   if two number has a same hash then it is called collition 
