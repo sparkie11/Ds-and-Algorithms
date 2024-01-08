@@ -1,4 +1,4 @@
-/* Hash Table below */
+/* Hash Table below now */
 
 var hash = (string, max) => {
     var hash = 0;
