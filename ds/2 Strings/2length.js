@@ -1,3 +1,4 @@
+// initialization
 let message = 'Hello World';
 let length = message.length;
 
