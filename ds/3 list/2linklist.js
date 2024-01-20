@@ -1,3 +1,4 @@
+// initialization starts
 
 class LinkedList {
     constructor() {
