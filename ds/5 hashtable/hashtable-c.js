@@ -1,4 +1,4 @@
-// declaration starts
+// declaration starts here
 class HashTable {
     constructor() {
       this.table = [];
