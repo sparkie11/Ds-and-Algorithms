@@ -1,5 +1,5 @@
 // functions  push pop peek length
-// functions  push pop peek lengt
+// functions  push pop peek 
 
 
 
