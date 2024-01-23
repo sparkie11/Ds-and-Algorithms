@@ -1,4 +1,6 @@
 // functions  push pop peek length
+// functions  push pop peek length
+
 
 
 // arrays are example of stack 
