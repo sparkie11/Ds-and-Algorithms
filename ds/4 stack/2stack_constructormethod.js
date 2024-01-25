@@ -1,4 +1,4 @@
-//declaration 
+//declaration begin
 class Stack {
     constructor() {
         this.storage = [];
