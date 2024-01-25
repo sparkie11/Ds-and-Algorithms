@@ -1,3 +1,4 @@
+//declare
 class Stack {
     constructor() {
         this.storage = [];
