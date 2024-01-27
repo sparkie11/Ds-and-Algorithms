@@ -1,4 +1,4 @@
-// Stack class 
+// Stac k class 
 class Stack {
 
 	// Array is used to implement stack
