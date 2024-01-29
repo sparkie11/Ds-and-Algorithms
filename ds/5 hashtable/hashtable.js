@@ -1,4 +1,4 @@
- /* Has h T able   now    not       */ 
+ /* Has h Table   now    not       */ 
 
 var hash = (string, max) => {
     var hash = 0;
