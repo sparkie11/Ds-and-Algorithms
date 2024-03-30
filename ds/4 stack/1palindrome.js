@@ -5,7 +5,7 @@
 
 // arrays are example of stack 
 
-
+ 
 var letters =[];
 
 var word="racecar"
