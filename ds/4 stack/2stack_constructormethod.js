@@ -1,4 +1,4 @@
-                                                                       / / declaration    begins
+                                                                        / / declaration    begins
 class Stack {
     constructor() {
         this.storage = [];
