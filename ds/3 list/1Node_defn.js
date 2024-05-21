@@ -1,4 +1,4 @@
-                                                                                                                                                                      // initialization starts
+b                                                                                                                                                                        // initialization starts
 
 class Node {
     constructor(data) {
