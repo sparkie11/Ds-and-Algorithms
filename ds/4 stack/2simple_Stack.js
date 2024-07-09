@@ -1,4 +1,4 @@
-                  const stack=[];
+                   const stack=[];
 
 stack.push(1);
 stack.push(2);
