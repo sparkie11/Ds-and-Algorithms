@@ -18,7 +18,7 @@
 var list = [1721, 979, 366, 299, 756, 1456];
 var target = 2020;
 let product =0;
-// let i,j;
+// let i,j; 
 
 function twoProducts(list,target){
     for (let i = 0 ; i < list.length; i++){
