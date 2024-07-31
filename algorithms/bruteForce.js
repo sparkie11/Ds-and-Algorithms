@@ -1,4 +1,4 @@
-                                                                                                                                                        // Given a list of numbers, find two numbers that sum up to a given target and return the product of these numbers.
+                                                                                                                                                         // Given a list of numbers, find two numbers that sum up to a given target and return the product of these numbers.
 
 // Sample input: 
 
