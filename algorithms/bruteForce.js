@@ -7,7 +7,7 @@
 // Some things to consider before solving this problem
 
 // The given list is unsorted
-// There are no duplicates of numbers
+// There are no duplicates of numbers 
 // Each input should return exactly one solution
 
 
