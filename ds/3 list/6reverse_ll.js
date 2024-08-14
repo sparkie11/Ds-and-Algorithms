@@ -1,4 +1,4 @@
-                         class LinkedList {
+                          class LinkedList {
     // ... (previous code)
   
     reverse() {
