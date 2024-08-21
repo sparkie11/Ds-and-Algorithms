@@ -3,7 +3,7 @@
 class LinkedList {
     // ... (previous code)
   
-    display() {
+    display() { 
       let current = this.head;
       while (current) {
         console.log(current.data);
