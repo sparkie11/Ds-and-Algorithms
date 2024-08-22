@@ -1,4 +1,4 @@
-                                        // initialization starts
+                                         // initialization starts
 
 class LinkedList {
     // ... (previous code)
