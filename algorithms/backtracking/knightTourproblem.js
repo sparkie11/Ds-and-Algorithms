@@ -1,4 +1,4 @@
- 
+  
 
   
 // Javascript program for Knight Tour problem 
@@ -8,7 +8,7 @@ let N = 8;
 // valid indexes for N*N chessboard  
 function isSafe(x, y, sol) 
 { 
-    return(x >= 0 && x < N && y >= 0 &&  
+     return(x >= 0 && x < N && y >= 0 &&  
             y < N && sol[x][y] == -1); 
 } 
   
