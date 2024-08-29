@@ -1,5 +1,5 @@
                                                                                                 // initialization starts
-
+ 
 class LinkedList {
     // ... (previous code)
   
