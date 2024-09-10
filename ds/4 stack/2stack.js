@@ -1,5 +1,5 @@
                                                  // declation     starts
-var Stack =function(){
+var Stack =function(){ 
     this.count=0;
     this.storage={};
 
