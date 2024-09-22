@@ -1,4 +1,4 @@
-                          class Node {
+                           class Node {
 	// constructor 
 	constructor(element) {
 		this.element = element;
