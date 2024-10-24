@@ -1,7 +1,6 @@
-      const AnagramChecker = (string1,string2) => {
-    
-    const sortedStr1 = string1.split("").sort().join("");
-    const sortedStr2 = string2.split("").sort().join("");
+const AnagramChecker = (string1,string2) => {
+const sortedStr1 = string1.split("").sort().join("");
+const sortedStr2 = string2.split("").sort().join("");
 
     if (sortedStr1 === sortedStr2) {
         return "YES";
