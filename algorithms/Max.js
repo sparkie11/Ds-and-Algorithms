@@ -1,4 +1,4 @@
-         const Maximum = (numberArray) => {
+          const Maximum = (numberArray) => {
     
     let max = numberArray[0];
     for(let i=1 ;i<numberArray.length;i++){
