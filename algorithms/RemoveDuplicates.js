@@ -1,7 +1,7 @@
                           // function RemoveDuplicates(numberArray){  
 //     let newArray =[]
 //     newArray.push(numberArray[0])
-//     for(let i = 0 ; i <numberArray.length;i++){
+//     for(let i = 0 ; i <numberArray.length;i++){ 
 //         // if(numberArray[i].includes.newArray)
 //         // if (numberArray[i].includes(newArray)) {
 //         if (newArray.some(element => numberArray[i].includes(element))) {
