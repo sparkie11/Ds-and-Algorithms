@@ -1,4 +1,4 @@
-                                       // function RemoveDuplicates(numberArray){  
+                                        // function RemoveDuplicates(numberArray){  
 //     let newArray =[]
 //     newArray.push(numberArray[0])
 //     for(let i = 0 ; i <numberArray.length;i++){ 
