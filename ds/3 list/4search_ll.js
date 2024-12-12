@@ -1,5 +1,5 @@
                                                            class LinkedList {
-    // ... (previous code)
+    // ... (previous code) 
   
     search(data) {
       let current = this.head;
