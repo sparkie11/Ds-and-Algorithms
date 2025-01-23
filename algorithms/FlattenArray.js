@@ -1,4 +1,4 @@
-                       function FlattenArray(nestedArray) {
+                        function FlattenArray(nestedArray) {
     let newArray=[];
     StoreInArray(nestedArray)
     function StoreInArray(arrayVal){
