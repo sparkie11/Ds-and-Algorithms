@@ -7,7 +7,7 @@ class LinkedList {
       while (current) {
         if (current.data === data) {
           return true;
-        }
+        } 
         current = current.next;
       }
       return false;
