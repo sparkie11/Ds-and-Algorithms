@@ -6,7 +6,7 @@ class LinkedList {
       let current = this.head;
       while (current) {
         if (current.data === data) {
-          return true;
+          return true; 
         } 
         current = current.next;
       }
