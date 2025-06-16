@@ -1,4 +1,4 @@
-                                                         v                     c                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                          v                     c                                                                                                                                                                                                                                                                                                                                                                                                              
 class LinkedList { 
     // ... (previous code) 
   
