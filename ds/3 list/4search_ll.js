@@ -4,7 +4,7 @@ class LinkedList {
   
     search(data) {
       let current = this.head;
-      while (current) {
+      while (current) { 
         if (current.data === data) {
           return true; 
         } 
