@@ -1,8 +1,8 @@
-                                                                                                                                                                                                                                  v                                                                                                                                                                                                                                                                                    v                     c                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                   v                                                                                                                                                                                                                                                                                    v                     c                                                                                                                                                                                                                                                                                                                                                                                                              
 class LinkedList {    
     // ... (previous code) 
   
-    search(data) {
+    search(data) { 
       let current = this.head;
       while (current) { 
         if (current.data === data) {
