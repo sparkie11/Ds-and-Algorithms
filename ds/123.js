@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+ import React, { useState } from 'react';
 import { addInventoryItem, InventoryItem } from '../lib/mockApi';
 
 interface FormSectionProps {
