@@ -1,6 +1,6 @@
                                                                                      v                     v                                      v                                      v                                                                   n                                          n                                    v                                                                                                                                                                                                                                                  v                                                                                                                                                                                                                                                                                    v                     c                                                                                                                                                                                                                                                                                                                                                                                                              
 class LinkedList {    
-    // ... (previous code) 
+    // ... (previous code)  
   
     search(data) { 
       let current = this.head;
