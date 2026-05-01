@@ -1,4 +1,4 @@
-          class LinkedList {     
+   v       class LinkedList {     
     // ... (previous code)    
   
     search(data) { 
