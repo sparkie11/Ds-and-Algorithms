@@ -1,4 +1,3 @@
-     
 class LinkedList {     
      // ... (previous code)    
   
