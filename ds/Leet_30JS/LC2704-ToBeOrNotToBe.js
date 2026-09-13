@@ -1,4 +1,4 @@
-var expect = function(val) {
+ var expect = function(val) {
     console.log(val)
 return {
     toBe: function(expectedVal) {
